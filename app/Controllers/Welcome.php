@@ -13,10 +13,23 @@ class Welcome extends Controller
         echo "This is me kailash";
     }
 
-    public function demo()
+    public function demo($name)
     {
-        echo "Hello this is demo function";
+        echo "Hello ".$name ." this is demo function";
     }
+
+    public function address($city, $country)
+    {
+        echo "I am from ".$city. ", ".$country.".";
+    }
+
+
+    public function _remap($method)
+    {
+        echo $mehtod;
+    }
+
+
 
 }
 
