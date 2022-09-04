@@ -24,10 +24,10 @@ class Welcome extends Controller
     }
 
 
-    public function _remap($method)
-    {
-        echo $mehtod;
-    }
+    // public function _remap($method)
+    // {
+    //     echo $mehtod;
+    // }
 
 
 
