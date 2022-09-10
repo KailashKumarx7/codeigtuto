@@ -20,6 +20,7 @@ class Data extends \CodeIgniter\Controller{
             ['Aaman sharma', 'sunsarii', 'Sitapri'], 
         ];
 
+        echo "This is table";
 
         echo $table->generate($data);
 
