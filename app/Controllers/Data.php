@@ -17,6 +17,7 @@ class Data extends \CodeIgniter\Controller{
             ['Kailash kumar', 'Bhaktpur', 'Baagmati'],
             ['Anubhav', 'Kathmandu', 'Sudurpachim'],
             ['Anurag sharma', 'laalpur', 'Sitapri'], 
+            ['Aaman sharma', 'sunsarii', 'Sitapri'], 
         ];
 
 
