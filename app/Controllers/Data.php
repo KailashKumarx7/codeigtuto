@@ -25,6 +25,9 @@ class Data extends \CodeIgniter\Controller{
         echo $table->generate($data);
 
 
+        
+
+
     }
 
 
