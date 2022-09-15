@@ -1,6 +1,6 @@
 <?php
 
-
+// view parser
     namespace App\Controllers;
     use \CodeIgniter\Controller;
 
@@ -16,7 +16,7 @@
         $parser->setData($data);
         return $parser->render("myview1");
 
-        
+
         // echo view("myview1");
         }
     }
