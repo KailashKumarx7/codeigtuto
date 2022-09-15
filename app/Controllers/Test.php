@@ -15,6 +15,8 @@
 
         $parser->setData($data);
         return $parser->render("myview1");
+
+        
         // echo view("myview1");
         }
     }
