@@ -21,7 +21,7 @@ class Data extends \CodeIgniter\Controller{
             ['Bibek goutam', 'nuwakot', 'luwaghat'],
         ];
 
-        echo "This is table";
+        echo "This is table !";
 
         echo $table->generate($data);
 
