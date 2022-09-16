@@ -18,6 +18,7 @@ class Data extends \CodeIgniter\Controller{
             ['Anubhav', 'Kathmandu', 'Sudurpachim'],
             ['Anurag sharma', 'laalpur', 'Sitapri'], 
             ['Aaman sharma', 'sunsarii', 'Sitapri'], 
+            ['Bibek goutam', 'nuwakot', 'luwaghat'],
         ];
 
         echo "This is table";
