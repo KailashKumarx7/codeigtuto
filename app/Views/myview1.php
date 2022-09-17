@@ -1,6 +1,6 @@
 <html>
 <head>
-    <!--templating engine-->
+    <!--templating    engine-->
     <title>{page_title}</title>
 </head>
 <body>
